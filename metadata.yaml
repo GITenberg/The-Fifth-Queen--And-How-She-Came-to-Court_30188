@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1016
     wikipedia: http://en.wikipedia.org/wiki/Ford_Madox_Ford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30188#The-Fifth-Queen--And-How-She-Came-to-Court
 gutenberg_issued: '2009-10-06'
 gutenberg_type: Text
 identifiers:
